@@ -29,7 +29,7 @@ class ParsingManager:
         if not path.exists():
             return []
 
-
+        #Getting post codes from locations file list
         with open(path, mode="r", encoding="Utf-8") as file:
             reader = csv.reader(file)
 
