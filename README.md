@@ -1,4 +1,4 @@
-# Zillow Agents Parser (Django starter)
+# Zillow Agents Parser (Django)
 
 A Django project with application (`zillow_agents_parser_app`) and Postgress
 application-owned database table (`agents`). It supports a two-stage workflow:
